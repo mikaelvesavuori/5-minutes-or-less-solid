@@ -12,8 +12,8 @@
  * sets of skills is merely a matter of implementing one or more
  * interfaces.
  *
- * The counter-point to this specific tactic is that it inheritance
- * can go overboard.
+ * The counter-point to this specific tactic is that unregulated
+ * inheritance can quickly go overboard.
  *
  * Joe Armstrong, creator of Erlang, famously stated his opinion that,
  *
@@ -22,7 +22,7 @@
  * You wanted a banana but what you got was a gorilla holding
  * the banana and the entire jungle.
  *
- * It can also lead to lead cohesion of the code, if interfaces and
+ * It can also lead to low cohesion of the code, if interfaces and
  * implementations are only ever single-method oriented.
  *
  * Used reasonably and with attention to evolution pains, however, and

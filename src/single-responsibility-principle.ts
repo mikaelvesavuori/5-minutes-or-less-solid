@@ -13,7 +13,7 @@
  * one "thing" only, but that logical groupings of responsibility
  * should be furnished and that classes are logically unique.
  *
- * In the example, you'll see how the cookie is separated from
+ * In the example, you'll see how the cookie itself is separated from
  * the act of "dipping" it. The cookie stores information on flavor,
  * and the dipper is the interactor. The same example can be easily
  * transferred to databases/repositories, game's character logic
