@@ -24,6 +24,8 @@
  * testable system, as we can easily adapt and expand the `FoodProvider`s from the
  * outside, even (for example) injecting fake databases into repository implementations
  * or other cases that are typically hard to test without infrastructure.
+ *
+ * @see https://en.wikipedia.org/wiki/Dependency_inversion_principle
  */
 function dipDemo() {
   interface FoodProvider {

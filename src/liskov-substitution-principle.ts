@@ -18,6 +18,8 @@
  * nature on functional compatibility. You can certainly use
  * interfaces (leaning on the Interface Segregation Principle) and
  * some of the other principles too!
+ *
+ * @see https://en.wikipedia.org/wiki/Liskov_substitution_principle
  */
 function lspDemo() {
   class Animal {

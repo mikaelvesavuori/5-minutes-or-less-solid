@@ -1,7 +1,7 @@
 {
   "name": "5-minutes-or-less-solid",
   "version": "1.0.0",
-  "description": "  .",
+  "description": "SOLID principles in TypeScript and JavaScript, demystified in less than 5 minutes each.",
   "author": "Mikael Vesavuori",
   "license": "MIT",
   "keywords": [
