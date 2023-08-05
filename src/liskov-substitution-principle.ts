@@ -54,10 +54,10 @@ function lspDemo() {
   }
 
   const animal = new Animal('Any Animal');
-  greetAnimal(animal); // Output: Hello, Any Animal!\n Animal sound!
+  greetAnimal(animal);
 
   const cat = new Cat('Whiskers');
-  greetAnimal(cat); // Output: Hello, Whiskers!\n Meow!
+  greetAnimal(cat);
 }
 
 lspDemo();
