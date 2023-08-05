@@ -63,9 +63,11 @@ function ispDemo() {
     }
   }
 
-  new SimpleDancer().dance();
+  const dancer = new SimpleDancer();
+  dancer.dance();
 
-  new MultitalentedPerformer().juggle();
+  const performer = new MultitalentedPerformer();
+  performer.juggle();
 }
 
 ispDemo();
