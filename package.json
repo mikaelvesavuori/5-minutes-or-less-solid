@@ -1,0 +1,32 @@
+{
+  "name": "5-minutes-or-less-solid",
+  "version": "1.0.0",
+  "description": "SOLID principles in TypeScript and JavaScript, demystified in less than 5 minutes each.",
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "javascript",
+    "ts",
+    "js",
+    "demos",
+    "solid",
+    "principles",
+    "solid-principles",
+    "design-patterns",
+    "learning"
+  ],
+  "devDependencies": {
+    "@types/node": "latest",
+    "@typescript-eslint/eslint-plugin": "5",
+    "@typescript-eslint/parser": "5",
+    "eslint": "8",
+    "eslint-config-prettier": "8",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsdoc": "latest",
+    "eslint-plugin-prettier": "4",
+    "prettier": "2",
+    "ts-node": "latest",
+    "typescript": "5"
+  }
+}

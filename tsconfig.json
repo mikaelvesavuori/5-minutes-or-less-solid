@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "outDir": "build",
+    "target": "es2022",
+    "lib": ["es2022", "dom"],
+    "forceConsistentCasingInFileNames": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictFunctionTypes": true
+  },
+  "include": ["./src/*.ts", "./src/**/*.ts"],
+  "exclude": ["./node_modules"]
+}
