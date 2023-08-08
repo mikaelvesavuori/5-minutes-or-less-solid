@@ -6,6 +6,11 @@ Everyone who's coded for some time has probably heard about these principles, bu
 
 If you were ever afraid to ask, here's your chance to understand them easily and in just a few minutes each!
 
+## Five Minutes or Less
+
+- [Design Patterns](https://github.com/mikaelvesavuori/5-minutes-or-less-design-patterns)
+- [TypeScript/JavaScript patterns and features](https://github.com/mikaelvesavuori/5-minutes-or-less-typescript-js)
+
 ## The SOLID Principles
 
 The principles in their mnemonic order:
