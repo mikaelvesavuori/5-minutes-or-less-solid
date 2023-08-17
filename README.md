@@ -10,6 +10,7 @@ If you were ever afraid to ask, here's your chance to understand them easily and
 
 - [Design Patterns](https://github.com/mikaelvesavuori/5-minutes-or-less-design-patterns)
 - [TypeScript/JavaScript patterns and features](https://github.com/mikaelvesavuori/5-minutes-or-less-typescript-js)
+- [Refactoring](https://github.com/mikaelvesavuori/5-minutes-or-less-refactoring)
 
 ## The SOLID Principles
 
